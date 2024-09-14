@@ -4,4 +4,4 @@ pandas
 pandas_ta
 backtesting
 plotly
-pkg_resources
+setuptools
