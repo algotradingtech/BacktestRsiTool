@@ -1,5 +1,5 @@
 streamlit
-yfinance
+yfinance==0.2.18
 pandas
 pandas_ta
 backtesting
