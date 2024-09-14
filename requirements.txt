@@ -5,3 +5,4 @@ pandas_ta
 backtesting
 plotly
 setuptools
+numpy==1.21.0
