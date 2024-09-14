@@ -1,7 +1,7 @@
 streamlit
 yfinance==0.2.18
 pandas
-pandas_ta==0.3.14b0
+pandas_ta
 backtesting
 plotly
 setuptools
